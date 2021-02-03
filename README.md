@@ -1,1 +1,2 @@
 # Tresure-collection
+power
